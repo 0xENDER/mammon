@@ -1,3 +1,3 @@
 # Mammon for Desktop
 
-(Built using Electron)
+(Built using NeutralinoJS)
